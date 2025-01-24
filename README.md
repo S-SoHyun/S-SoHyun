@@ -1,5 +1,5 @@
 <div align="center" display="flex">
-  <img src="https://soopool.art/image/acnh/animal/Joey.png"/>
+  <img src="https://avatars.githubusercontent.com/u/185504136?v=4"/>
   <h1>Welcome to 신소현's Github</h1>
   
 </div>
